@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8cd7913a.css",
+    "main.js": "/portfolio/static/js/main.2559347e.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/IMG_0330-min.jpg": "/portfolio/static/media/IMG_0330-min.a5654211172f85ce6963.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.db415f3f09c7822d32d20c51fbf6dc6e.svg",
+    "static/media/CV-ZInelabidine-E.pdf": "/portfolio/static/media/CV-ZInelabidine-E.dbb2f35b565bd2598416.pdf",
+    "static/media/Hapinesss.png": "/portfolio/static/media/Hapinesss.0f67c09640f42e4317d6.png",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/BasicIncome.jpg": "/portfolio/static/media/BasicIncome.fcf97eb7713032887f73.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8cd7913a.css.map": "/portfolio/static/css/main.8cd7913a.css.map",
+    "main.2559347e.js.map": "/portfolio/static/js/main.2559347e.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cd7913a.css",
+    "static/js/main.2559347e.js"
+  ]
+}
